@@ -12,8 +12,7 @@
 
 
 ## git status
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonitan0803&show_icons=true&locale=en" alt="sonitan0803" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonitan0803&show_icons=true&locale=en&layout=compact" alt="sonitan0803" /></p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonitan0803&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonitan0803&theme=2077)
